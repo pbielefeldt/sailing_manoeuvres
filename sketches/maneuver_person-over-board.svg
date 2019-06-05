@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="maneuver_person-over-board.svg">
+   sodipodi:docname="maneuver_person-over-board.svg"
+   inkscape:export-filename="/home/bielefeldt/Dokumente/Segelzeugs/Segelskizzen/img/maneuver_person-over-board.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs2">
     <pattern
@@ -149,7 +152,7 @@
      inkscape:cx="85.435686"
      inkscape:cy="117.24671"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -645,7 +648,13 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="text">
     <g
+       style="display:inline"
        id="g1061"
        transform="matrix(0.50762786,0,0,0.50762786,-3.1396763,108.96688)">
       <rect
@@ -689,8 +698,4 @@
              id="flowPara1041">http://creativecommons.org/licenses/by-sa/4.0/</flowPara></flowRoot>      </g>
     </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="text" />
 </svg>
