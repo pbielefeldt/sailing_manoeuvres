@@ -20,7 +20,7 @@ Vorher kommt der Wind von Backbord, das Boot wird mit dem Bug in den Wind gelenk
 Wenn der Wind von Steuerbord kommt, werden die Segel übergeholt.
 
 ## Halse ##
-![Halsemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_jibe.png)
+![Halsemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_gybe.png)
 
 Hier fällt man ab, bis der Wind direkt von achtern kommt.
 Das Großsegel wird von Hand auf die andere Seite gebracht.
