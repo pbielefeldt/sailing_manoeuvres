@@ -20,7 +20,7 @@ Vorher kommt der Wind von Backbord, das Boot wird mit dem Bug in den Wind gelenk
 Wenn der Wind von Steuerbord kommt, werden die Segel übergeholt.
 
 ## Halse ##
-![Halsemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_jibe.png)
+![Halsemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_gybe.png)
 
 Hier fällt man ab, bis der Wind direkt von achtern kommt.
 Das Großsegel wird von Hand auf die andere Seite gebracht.
@@ -34,6 +34,13 @@ Zunächst wird auf Raumschotskurs abgefallen.
 Etwa drei Bootslängen leewärts der Person wird eine Q-Wende gefahren.
 Man nähert sich der Person auf einem Halbwindkurs in Lee.
 Es wird ein Nahezu-Aufschießer so gefahren, dass man die Person in Luv aufnehmen kann.
+
+## Beiliegen ##
+![Beiliegemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_heaving-to.png)
+Das Beiliegemanöver ist kein Prüfungsmanöver, aber oft hilfreich.
+Außerdem braucht man es während der Ausbildung, zum Beispiel, um etwas zu erklären.
+Im Prinzip entspricht es einer abgebrochenen Wende, bei der die Fock back gehalten wird.
+Hier angedeutet ist außerdem das langsame Abdriften mit dem Wind, bei gelegentlicher Aufnahme von etwas Fahrt voraus.
 
 ## Ablegen ##
 ![Ablegemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_disembark.png)
