@@ -37,6 +37,7 @@ Es wird ein Nahezu-Aufschießer so gefahren, dass man die Person in Luv aufnehme
 
 ## Beiliegen ##
 ![Beiliegemanöver](https://raw.githubusercontent.com/pbielefeldt/sailing_manoeuvres/master/img/small_maneuver_heaving-to.png)
+
 Das Beiliegemanöver ist kein Prüfungsmanöver, aber oft hilfreich.
 Außerdem braucht man es während der Ausbildung, zum Beispiel, um etwas zu erklären.
 Im Prinzip entspricht es einer abgebrochenen Wende, bei der die Fock back gehalten wird.
